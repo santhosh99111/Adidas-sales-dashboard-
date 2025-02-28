@@ -69,3 +69,5 @@ Highest Performing City: New York in terms of total sales.
 ![Alt Text](IMG_20250225_184522.jpg)
 
 
+![Alt Text](IMG_20250225_184709.jpg)
+
