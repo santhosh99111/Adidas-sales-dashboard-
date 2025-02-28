@@ -63,7 +63,9 @@ Units Sold: 76380
 Margin Percentage: 87.26%
 
 
-![Alt Text]()
-
 Highest Performing City: New York in terms of total sales.
+
+
+![Alt Text](IMG_20250225_184522.jpg)
+
 
